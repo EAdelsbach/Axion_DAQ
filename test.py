@@ -7,7 +7,7 @@ from redpitaya_control.redpitaya_dev import redpitaya_dev
 from redpitaya_control.event_logger import EventLogger, unpack, load_run, fit_clock, counter_to_unix
 from redpitaya_control import compute_coeff
 
-
+##print Test
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.optimize import curve_fit
